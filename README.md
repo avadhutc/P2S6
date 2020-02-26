@@ -46,3 +46,8 @@ Require:
 			Q(s',a) <- (1 - alpha) Q(s, a) + alpha(estimate)
 			s       <- s'
 	return Q
+
+
+#### a.  Running code
+
+  ![rlcode](RL_P2S6.JPG)
